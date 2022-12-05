@@ -1,4 +1,4 @@
-# Takes input of three sides input from the user a,b,c
+"Takes input of three sides input from the user a,b,c"
 a = int(input("Enter the first side : "))
 b = int(input("Enter the second side : "))
 c = int(input("Enter the third side : "))
